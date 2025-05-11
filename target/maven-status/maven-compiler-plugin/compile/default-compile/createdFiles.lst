@@ -1,0 +1,6 @@
+com\siemens\internship\ItemService.class
+com\siemens\internship\ItemRepository.class
+com\siemens\internship\Item.class
+com\siemens\internship\EmailValidator.class
+com\siemens\internship\InternshipApplication.class
+com\siemens\internship\ItemController.class
